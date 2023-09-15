@@ -24,4 +24,4 @@ To makes this website to responsive on screens 1280, 768, and 320 pixels, I use 
 # web_project_homeland
 
 ## Author
-Akil Setiawan
+Akil Setiawan 2023
