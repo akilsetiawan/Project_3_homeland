@@ -22,3 +22,6 @@ To makes this website to responsive on screens 1280, 768, and 320 pixels, I use 
 
 [Link to website](https://github.com/akilsetiawan/web_project_homeland)
 # web_project_homeland
+
+## Author
+Akil Setiawan
